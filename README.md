@@ -1,1 +1,2 @@
 # dartsgallery
+ D’art is an Arts gallery online platform where artists and galleries showcase their artworks. It allows artists to reach a wider audience and art enthusiasts to explore and appreciate different artworks. This website feature high-quality images, descriptions, artist biographies, and information about upcoming events. They serve as a virtual space for art lovers to discover, engage with, and purchase artworks from the comfort of their homes.
